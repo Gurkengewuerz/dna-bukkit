@@ -1,0 +1,10 @@
+name: DNA
+version: 0.1
+author: Gurkengewuerz
+
+main: de.gurkengewuerz.dna.DNA
+
+commands:
+   dna:
+      description: Shows the DNA Commands
+      usage: /<command>
